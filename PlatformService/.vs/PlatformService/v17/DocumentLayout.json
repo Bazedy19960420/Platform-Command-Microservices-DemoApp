@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\asyncdataservice\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\asyncdataservice\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\asyncdataservice\\imessagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\asyncdataservice\\imessagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\platformservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\platformservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\profiles\\platformprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\profiles\\platformprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|c:\\users\\xpristo\\source\\repos\\platformservice\\platformservice\\dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5961E05B-8CD7-4FFF-9250-523B3811CABD}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlatformController.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\Controllers\\PlatformController.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Controllers\\PlatformController.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\Controllers\\PlatformController.cs",
+              "RelativeToolTip": "PlatformService\\Controllers\\PlatformController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAACwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:52:13.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageBusClient.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\AsyncDataService\\MessageBusClient.cs",
+              "RelativeDocumentMoniker": "PlatformService\\AsyncDataService\\MessageBusClient.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\AsyncDataService\\MessageBusClient.cs",
+              "RelativeToolTip": "PlatformService\\AsyncDataService\\MessageBusClient.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:17:56.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMessageBusClient.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\AsyncDataService\\IMessageBusClient.cs",
+              "RelativeDocumentMoniker": "PlatformService\\AsyncDataService\\IMessageBusClient.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\AsyncDataService\\IMessageBusClient.cs",
+              "RelativeToolTip": "PlatformService\\AsyncDataService\\IMessageBusClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:17:55.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformProfile.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\Profiles\\PlatformProfile.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Profiles\\PlatformProfile.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\Profiles\\PlatformProfile.cs",
+              "RelativeToolTip": "PlatformService\\Profiles\\PlatformProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:55:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlatformPublishedDto.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\Dtos\\PlatformPublishedDto.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Dtos\\PlatformPublishedDto.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\Dtos\\PlatformPublishedDto.cs",
+              "RelativeToolTip": "PlatformService\\Dtos\\PlatformPublishedDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:54:04.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "PlatformService\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\appsettings.Production.json",
+              "RelativeToolTip": "PlatformService\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T23:46:57.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PlatformService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\appsettings.Development.json",
+              "RelativeToolTip": "PlatformService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T23:46:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\appsettings.json",
+              "RelativeDocumentMoniker": "PlatformService\\appsettings.json",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\appsettings.json",
+              "RelativeToolTip": "PlatformService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T23:46:35.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlatformService.csproj",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
+              "RelativeDocumentMoniker": "PlatformService\\PlatformService.csproj",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
+              "RelativeToolTip": "PlatformService\\PlatformService.csproj",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T18:10:00.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Program.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeToolTip": "PlatformService\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T21:53:29.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

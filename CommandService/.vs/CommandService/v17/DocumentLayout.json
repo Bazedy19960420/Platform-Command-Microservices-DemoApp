@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\controllers\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\controllers\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\profiles\\commandprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\profiles\\commandprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\dtos\\commandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\dtos\\commandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\dtos\\commandreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\dtos\\commandreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\commandservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\commandservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\data\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\data\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XPRISTO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|c:\\users\\xpristo\\source\\repos\\commandservice\\commandservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A668D43B-A73D-4B16-979B-427B2F63B77A}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandController.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Controllers\\CommandController.cs",
+              "RelativeDocumentMoniker": "CommandService\\Controllers\\CommandController.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Controllers\\CommandController.cs",
+              "RelativeToolTip": "CommandService\\Controllers\\CommandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:50:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Program.cs",
+              "RelativeDocumentMoniker": "CommandService\\Program.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Program.cs",
+              "RelativeToolTip": "CommandService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:40:02.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandProfile.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Profiles\\CommandProfile.cs",
+              "RelativeDocumentMoniker": "CommandService\\Profiles\\CommandProfile.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Profiles\\CommandProfile.cs",
+              "RelativeToolTip": "CommandService\\Profiles\\CommandProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:38:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Dtos\\CommandCreateDto.cs",
+              "RelativeDocumentMoniker": "CommandService\\Dtos\\CommandCreateDto.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Dtos\\CommandCreateDto.cs",
+              "RelativeToolTip": "CommandService\\Dtos\\CommandCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:42:08.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Dtos\\CommandReadDto.cs",
+              "RelativeDocumentMoniker": "CommandService\\Dtos\\CommandReadDto.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Dtos\\CommandReadDto.cs",
+              "RelativeToolTip": "CommandService\\Dtos\\CommandReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:41:00.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlatformReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Dtos\\PlatformReadDto.cs",
+              "RelativeDocumentMoniker": "CommandService\\Dtos\\PlatformReadDto.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Dtos\\PlatformReadDto.cs",
+              "RelativeToolTip": "CommandService\\Dtos\\PlatformReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:40:11.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CommandService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CommandService\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:26:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandRepo.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Data\\CommandRepo.cs",
+              "RelativeDocumentMoniker": "CommandService\\Data\\CommandRepo.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Data\\CommandRepo.cs",
+              "RelativeToolTip": "CommandService\\Data\\CommandRepo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:06:51.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICommandRepo.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Data\\ICommandRepo.cs",
+              "RelativeDocumentMoniker": "CommandService\\Data\\ICommandRepo.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Data\\ICommandRepo.cs",
+              "RelativeToolTip": "CommandService\\Data\\ICommandRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:06:50.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "CommandService\\Models\\Platform.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Models\\Platform.cs",
+              "RelativeToolTip": "CommandService\\Models\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:59:51.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Models\\Command.cs",
+              "RelativeDocumentMoniker": "CommandService\\Models\\Command.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Models\\Command.cs",
+              "RelativeToolTip": "CommandService\\Models\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:59:43.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\appsettings.json",
+              "RelativeDocumentMoniker": "CommandService\\appsettings.json",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\appsettings.json",
+              "RelativeToolTip": "CommandService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T18:49:52.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\XPRISTO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-07T18:49:44.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformController.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Controllers\\PlatformController.cs",
+              "RelativeDocumentMoniker": "CommandService\\Controllers\\PlatformController.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Controllers\\PlatformController.cs",
+              "RelativeToolTip": "CommandService\\Controllers\\PlatformController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:45:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CommandService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CommandService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T18:16:08.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommandService.csproj",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\CommandService.csproj",
+              "RelativeDocumentMoniker": "CommandService\\CommandService.csproj",
+              "ToolTip": "C:\\Users\\XPRISTO\\source\\repos\\CommandService\\CommandService\\CommandService.csproj",
+              "RelativeToolTip": "CommandService\\CommandService.csproj",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T18:14:00.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
